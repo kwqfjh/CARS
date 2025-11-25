@@ -7,3 +7,26 @@ body {
     font-family: 'Arial';
     background: black color(srgb rgb(255, 0, 0) green blue)
 }
+#content h2 {
+    font-size: 28px;
+    font-weight: bold;
+    color: #ffaa00; /* main subheader color */
+    margin-top: 30px;
+}
+
+#content h3 {
+    font-size: 22px;
+    font-weight: bold;
+    color: #fff;
+    margin-top: 20px;
+}
+
+#content p {
+    font-size: 16px;
+    line-height: 1.6;
+    margin-bottom: 15px;
+}
+
+#content strong {
+    color: #ffcc00; /* highlight important words */
+}
